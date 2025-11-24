@@ -50,7 +50,7 @@ These parameters affect how the PDF is split and how precisely the assistant ret
 ```bash
 git clone https://github.com/kerrifai/pdf-assistant.git
 
-cd DocumentSearcher
+cd pdf-assistant
 ```
 
 ### 2. Create a virtual environment and activate it.
