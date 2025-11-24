@@ -48,7 +48,7 @@ These parameters affect how the PDF is split and how precisely the assistant ret
 
 ### 1. Open VSCode terminal and clone the repository
 ```bash
-git clone https://github.com/kerrifai/DocumentSearcher.git
+git clone https://github.com/kerrifai/pdf-assistant.git
 
 cd DocumentSearcher
 ```
